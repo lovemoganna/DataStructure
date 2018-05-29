@@ -1,2 +1,1 @@
-# lovemoganna.github.io
-准备一些二叉树的知识.
+python 基础知识以及数据结构的准备.wiki见.
